@@ -30,5 +30,5 @@ The input is to be read from the standard input, with one test case per line:
 ```
 * npm i
 * npm run build
-* npm run start \ npm run start < input.txt > output.txt
+* npm run start  OR npm run start < input.txt > output.txt
 ```
