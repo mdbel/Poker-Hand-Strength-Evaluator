@@ -1,11 +1,10 @@
 
 > pocker@1.0.0 start /home/maksim/my/Poker-Hand-Strength-Evaluator
-> node dist/index.js
+> node dist/index.js "OR" "npm" "run" "start"
 
 Ac4d=Ad4s 5d6d As9s KhKd
 KdKs 9hJh
 4c8h2h6c9c Ah9d6s2cKh Kd9sAs3cQs 7h4s4h8c9h Tc5h6dAc5c
-Error: The game type is not valid
 2cJc Kh4h=Ks4c Kc7h KdJs 6h7d 2hAh
 Jc6s Qs9h 3cKh KdQh
 9h7h 2dTc KcAs 7sJd TsJc Qh8c 5c4h
