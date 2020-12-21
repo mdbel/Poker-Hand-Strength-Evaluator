@@ -1,1 +1,1 @@
-# Poker-Hand-Strength-Evaluator
+# Poker Hand Strength Evaluator
