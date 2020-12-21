@@ -25,7 +25,7 @@ The input is to be read from the standard input, with one test case per line:
   (one of `A`, `K`, `Q`, `J`, `T`, `9`, `8`, `7`, `6`, `5`, `4`, `3`, `2`) and the second character representing
   the suit (one of `h`, `d`, `c`, `s`). Jokers are not used.
 
-### Build and run ###
+### Build and start ###
 
 ```
 * npm i
