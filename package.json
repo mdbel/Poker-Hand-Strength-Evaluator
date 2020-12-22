@@ -7,6 +7,10 @@
     "build": "./node_modules/typescript/bin/tsc",
     "start": "node dist/index.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mdbel/Poker-Hand-Strength-Evaluator.git"
+  },
   "author": "",
   "license": "ISC",
   "dependencies": {
