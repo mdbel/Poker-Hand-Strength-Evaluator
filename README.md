@@ -28,9 +28,9 @@ The input is to be read from the standard input, with one test case per line:
 ### Build and start ###
 
 ```
-* npm i
-* npm run build
-* npm run start  OR npm run start < input.txt > output.txt
+npm i
+npm run build
+npm run start  OR npm run start < input.txt > output.txt
 ```
 
 You can launch a fresh Ubuntu Docker latest image, pull the source code to it from Git, run prepare.sh, and then run run.sh with input and output redirection.
